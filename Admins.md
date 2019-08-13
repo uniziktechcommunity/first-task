@@ -7,11 +7,11 @@ NB: Each entry must be terminated with a demarcation line.
 
 -------------------------------------------------
 1.
-Name: Olibie Chidera
-Email: jenniferolibie@gmail.com
-Skills: Software Developer
-Portfolio link:
-Twitter:
-Github:
-and anyother details you wish to add.
+Name: Olibie Chidera \b
+Email: jenniferolibie@gmail.com \b
+Skills: Software Developer \b
+Portfolio link: \b
+Twitter: \b
+Github: \b
+and anyother details you wish to add. 
 -----------------------------------------------

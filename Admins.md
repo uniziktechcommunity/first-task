@@ -21,3 +21,11 @@ Format is as given below:
    and any other details you wish to add. <br />
 
 -----------------------------------------------
+2. Name: Akujobi Chiemezuo <br />
+   Email: chiemezuoakujobi@gmail.com <br />
+   Training Track: App Development <br />
+   Skills: Android development <br />
+   Twitter: @CNA_tion <br />
+   Github: @chiemezuo <br />
+   
+------------------------------------------------  

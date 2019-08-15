@@ -36,5 +36,13 @@ Format is as given below:
    Github: @ugwakings <br />
 
 -----------------------------------------------
-  
+  4. Name: Oyeoka kenneth<br />
+   Email: kenoyeoka@yahoo.com <br />
+   Learning Track: Graphic design <br />
+   Skills: Media technologist
+   Github: @khren <br />
+   Facebook: @KhrenRegal <br />
+
+-----------------------------------------------
+
    

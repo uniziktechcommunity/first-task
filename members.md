@@ -18,9 +18,11 @@ Format is as given below:
    Twitter: @dera_jo <br />
    Github: @je-ni <br />
    and any other details you wish to add. <br />
-   Name : Nwafor Anselem <br/>
-   email: anselemsnwafor@gmail.com<br/>
-   Learning track : Data Science<br/>
-   Whatsapp accout: 08166317926
 
+2. Name : Nwafor Anselem  Chijioke<br/>
+   Email: anselemsnwafor@gmail.com<br/>
+   Learning track : Data Science<br/>
+   Whatsapp accout: 08166317926<br/>
+   
+ 
 -----------------------------------------------

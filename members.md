@@ -50,4 +50,5 @@ Format is as given below:
  Learning Track:Data Science<br />
  Skills: Front end Web Designer<br />
  Github:@Kassy13<br />
+ Twitter:@SomtooIchoku
  Facebook:@IchokuSomtoo<br />

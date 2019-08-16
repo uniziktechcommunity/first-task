@@ -29,13 +29,13 @@ Format is as given below:
    
    -------------------------------------------------
    
- 3. Name: Raphael Ifeanyi Chidera <br />
+3. Name: Raphael Ifeanyi Chidera <br />
    Email: harrykid1219@gmail.com <br />
    Learning Track: Web Development <br />
    Skills: basics web development <br />
    Twitter: @raphaelharriso7 <br />
    Github: @harryboy1219
-   
+   and any other details you wish to add. <br />
 
 
 

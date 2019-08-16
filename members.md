@@ -51,3 +51,12 @@ Format is as given below:
    Whatsapp number: 08166317926<br/>
    Github: Will add soon
    
+-----------------------------------------------
+6. Name: Raphael Ifeanyi Chidera <br />
+   Email: harrykid1219@gmail.com <br />
+   Learning Track: Data Science <br />
+   Skills: basic web development <br />
+   Twitter: @raphaelharriso7 <br />
+   Github: @harryboy1219 <br />
+   
+-----------------------------------------------

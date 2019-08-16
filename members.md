@@ -45,4 +45,11 @@ Format is as given below:
 
 -----------------------------------------------
 
-   
+5. Name: Ichoku Somtoochukwu Nkasiobi
+ Email: Ichokusomtoo13@gmail.com
+ Learning Track:Data Science
+ Skills: Front end Web Designer
+ Github:@Kassy13
+ Facebook:@IchokuSomtoo
+ 
+ 

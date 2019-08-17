@@ -51,3 +51,13 @@ Format is as given below:
    Whatsapp number: 08166317926<br/>
    Github: Will add soon
    
+-----------------------------------------------
+   
+7. Name: Okeke Chimaobi Christian <br />
+   Email: chilancer@gmail.com <br />
+   Learning Track: Graphic Design <br />
+   Skills: Dribbling <br />
+   Skype: okeke.christianc <br />
+   Github: @occhristian <br />
+   
+-----------------------------------------------

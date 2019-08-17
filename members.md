@@ -60,3 +60,9 @@ Format is as given below:
    Github: @harryboy1219 <br />
    
 -----------------------------------------------
+7. Name: Ndukwu Augustine Anene <br />
+   Email: ndukwuaugustin@gmail.com <br />
+   Learning Track: Data Science <br />
+   Skills: 3D Modelling <br />
+   Facebook: Ndukwu Augustine Anene <br />
+   Github: @Augustinetech <br />

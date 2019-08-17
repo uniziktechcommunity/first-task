@@ -66,3 +66,12 @@ Format is as given below:
    Skills: 3D Modelling <br />
    Facebook: Ndukwu Augustine Anene <br />
    Github: @Augustinetech <br />
+
+------------------------------------------------
+8. Name: Owoh Chidubem Alexander <br />
+   Email: chidubempaul91@gmail.com <br />
+   Learning Track: Data Science <br />
+   Skills: Website and Mobile App Development <br />
+   Whatsapp number: 08139353673<br/>
+   Twitter: @OwohChidubem <br />
+   Github: @dubemtopsite <br />

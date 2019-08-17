@@ -60,3 +60,9 @@ Format is as given below:
    Github: @harryboy1219 <br />
    
 -----------------------------------------------
+7. Name: Nwoye Chukwujekwu Charles <br />
+   Email: charlesnwoye2@gmail.com <br />
+   Learning Track: Data Science <br />
+   Skills: Python <br />
+   Twitter: @chuk_charles <br />
+   Github: @Jekwulum <br />

@@ -52,6 +52,7 @@ Format is as given below:
    Github: Will add soon
    
 -----------------------------------------------
+<<<<<<< HEAD
    
 7. Name: Okeke Chimaobi Christian <br />
    Email: chilancer@gmail.com <br />
@@ -61,3 +62,28 @@ Format is as given below:
    Github: @occhristian <br />
    
 -----------------------------------------------
+=======
+6. Name: Raphael Ifeanyi Chidera <br />
+   Email: harrykid1219@gmail.com <br />
+   Learning Track: Data Science <br />
+   Skills: basic web development <br />
+   Twitter: @raphaelharriso7 <br />
+   Github: @harryboy1219 <br />
+   
+-----------------------------------------------
+7. Name: Ndukwu Augustine Anene <br />
+   Email: ndukwuaugustin@gmail.com <br />
+   Learning Track: Data Science <br />
+   Skills: 3D Modelling <br />
+   Facebook: Ndukwu Augustine Anene <br />
+   Github: @Augustinetech <br />
+------------------------------------------------
+8. Name: Ichoku Somtoochukwu Nkasiobi <br />
+   Email: Ichokusomtoo13@gmail.com<br />
+   Learnin Track: Data Science<br />
+   Skills: Front End web Designer<br />
+   Facebook: Ichoku somtoo<br />
+   Github: @Kassy13<br />
+   Twitter: @Somtooichoku<br />
+   
+>>>>>>> 8414e5bfdb648fb9585dff77230af60ab4c348c5

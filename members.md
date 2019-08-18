@@ -66,3 +66,12 @@ Format is as given below:
    Skills: 3D Modelling <br />
    Facebook: Ndukwu Augustine Anene <br />
    Github: @Augustinetech <br />
+------------------------------------------------
+8. Name: Ichoku Somtoochukwu Nkasiobi <br />
+   Email: Ichokusomtoo13@gmail.com<br />
+   Learnin Track: Data Science<br />
+   Skills: Front End web Designer<br />
+   Facebook: Ichoku somtoo<br />
+   Github: @Kassy13<br />
+   Twitter: @Somtooichoku<br />
+   

@@ -83,7 +83,7 @@ Format is as given below:
    Github: @silvertechhub<br />
    Twitter: @ranoldee<br />
   ------------------------------------------------- 
-7. Name: Okeke Chimaobi Christian <br />
+10. Name: Okeke Chimaobi Christian <br />
    Email: chilancer@gmail.com <br />
    Learning Track: Graphic Design <br />
    Skills: Dribbling <br />

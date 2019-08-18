@@ -82,3 +82,12 @@ Format is as given below:
    Facebook: agubata sylvester<br />
    Github: @silvertechhub<br />
    Twitter: @ranoldee<br />
+  ------------------------------------------------- 
+10. Name: Okeke Chimaobi Christian <br />
+   Email: chilancer@gmail.com <br />
+   Learning Track: Graphic Design <br />
+   Skills: Dribbling <br />
+   Skype: okeke.christianc <br />
+   Github: @occhristian <br />
+   
+-----------------------------------------------

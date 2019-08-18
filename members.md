@@ -74,4 +74,11 @@ Format is as given below:
    Facebook: Ichoku somtoo<br />
    Github: @Kassy13<br />
    Twitter: @Somtooichoku<br />
-   
+  ------------------------------------------------- 
+9. Name: Agubata sylvester <br />
+   Email: agubatasylvester@gmail.com<br />
+   Learnin Track: web development<br />
+   Skills: basic Front End web Designer<br />
+   Facebook: agubata sylvester<br />
+   Github: @silvertechhub<br />
+   Twitter: @ranoldee<br />

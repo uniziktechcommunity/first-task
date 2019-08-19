@@ -89,5 +89,11 @@ Format is as given below:
    Skills: Dribbling <br />
    Skype: okeke.christianc <br />
    Github: @occhristian <br />
-   
 -----------------------------------------------
+11. Name: Owoh Chidubem Alexander <br />
+   Email: chidubempaul91@gmail.com <br />
+   Learning Track: Data Science <br />
+   Skills: Website and Mobile App Development <br />
+   Whatsapp number: 08139353673<br/>
+   Twitter: @OwohChidubem <br />
+   Github: @dubemtopsite <br />

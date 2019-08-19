@@ -90,7 +90,7 @@ Format is as given below:
    Skype: okeke.christianc <br />
    Github: @occhristian <br />
 -----------------------------------------------
-8. Name: Owoh Chidubem Alexander <br />
+11. Name: Owoh Chidubem Alexander <br />
    Email: chidubempaul91@gmail.com <br />
    Learning Track: Data Science <br />
    Skills: Website and Mobile App Development <br />

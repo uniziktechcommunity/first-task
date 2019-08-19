@@ -60,3 +60,10 @@ Format is as given below:
    Github: @harryboy1219 <br />
    
 -----------------------------------------------
+7. Name: Ikem Nodebechukwu <br />
+   Email: nodywelete3@gmail.com <br />
+   Learning Track: Web Development <br />
+   Skills: BackEnd Web development (Python/Flask) <br />
+   Twitter: @w_lete <br />
+   Github: nodebe <br />
+   Instagram: @metete_welete <br />

@@ -94,6 +94,14 @@ Format is as given below:
    Email: chidubempaul91@gmail.com <br />
    Learning Track: Data Science <br />
    Skills: Website and Mobile App Development <br />
-   Whatsapp number: 08139353673<br/>
+   Whatsapp number: 08139353673<br/><
    Twitter: @OwohChidubem <br />
    Github: @dubemtopsite <br />
+-----------------------------------------------------
+12. Name: Okafor Chukwuebuka Emmanuel <br />
+    Email: manuelokafor96@gmail.com <br />
+    Learning Track: Data Science <br />
+    Skills: - <br />
+    WhatsApp number: 08054222890 <br />
+    Facebook: Okafor Manuel <br />
+    GitHub: @nuel96 <br />

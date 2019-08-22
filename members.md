@@ -105,3 +105,12 @@ Format is as given below:
     WhatsApp number: 08054222890 <br />
     Facebook: Okafor Manuel <br />
     GitHub: @nuel96 <br />
+--------------------------------------------
+13. Name: Nwankiti jacinta <br />
+    Email: nwankitijacinta@gmail.com <br />
+    Learning Track: Graphics Design <br />
+    Skills: nil <br />
+    WhatsApp number:08124803872 <br />
+    Facebook:Nwankiti jacinta <br />
+    GitHub: dekarrh <br />
+--------------------------------------------

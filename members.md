@@ -97,3 +97,12 @@ Format is as given below:
    Whatsapp number: 08139353673<br/>
    Twitter: @OwohChidubem <br />
    Github: @dubemtopsite <br />
+-----------------------------------------------
+12. Name: Amarachi Perpetua<br />
+   Email: amyperpe32@gmail.com <br />
+   Learning Track: Web Development <br />
+   Skills: Graphics design <br />
+   Github: @Amarachi  <br />
+
+
+-----------------------------------------------

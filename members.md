@@ -121,3 +121,12 @@ Format is as given below:
     Whatsapp number:08066383540 <br />
     Facebook:Chukwuebuka Aneke <br />
     GitHub:Sincere009 <br />
+--------------------------------------------
+15. Name: Nwoye Chukwujekwu Charles <br />
+    Email: charlesnwoye2@gmail.com<br />
+    Learning Track: Data Science <br />
+    Skills: Python  <br />
+    Whatsapp number: 08125493107 <br />
+    Twitter: @chuk_charles <br />
+    GitHub: @jekwulum <br />
+--------------------------------------------

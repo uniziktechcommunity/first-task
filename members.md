@@ -121,3 +121,10 @@ Format is as given below:
     Whatsapp number:08066383540 <br />
     Facebook:Chukwuebuka Aneke <br />
     GitHub:Sincere009 <br />
+ -------------------------------------------
+Name:Okeke Christopher   <br />
+   Email: okekechristopher981@gmail.com <br />
+   Learning Track: Data science  <br />
+   Skills: Network Analyst  < br />
+   Github: @ChristopherOkay <br />
+   -------------------------------------------------

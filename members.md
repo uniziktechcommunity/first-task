@@ -28,5 +28,12 @@ Format is as given below:
    and any  other details you wish to add. <br />
    
    -------------------------------------------------
+3. Name:Okeke Christopher   <br />
+   Email: okekechristopher981@gmail.com <br />
+   Learning Track: Data science  <br />
+   Skills: Network Analyst  < br />
+   Github: @ChristopherOkay <br />
+   and any  other details you wish to add. <br />
    
+   -------------------------------------------------
    

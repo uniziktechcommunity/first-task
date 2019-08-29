@@ -98,11 +98,14 @@ Format is as given below:
    Twitter: @OwohChidubem <br />
    Github: @dubemtopsite <br />
 -----------------------------------------------
-12. Name: Amarachi Perpetua<br />
-   Email: amyperpe32@gmail.com <br />
-   Learning Track: Web Development <br />
-   Skills: Graphics design <br />
-   Github: @Amarachi  <br />
+ 
+12. Name: Perpetua Amarachi<br />
+    Email:amyperpe32@gmail.com < br/>
+    Learning Track: web development<br />
+    Skills: graphics designer <br />
+    WhatsApp number: 07010890330 <br />
+    Facebook: Amarachi Perpetua  <br />  
+    Github:@ Amarachi32 <br />
 
 
------------------------------------------------
+---------------------------------------------

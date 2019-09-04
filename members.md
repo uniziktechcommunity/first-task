@@ -94,18 +94,47 @@ Format is as given below:
    Email: chidubempaul91@gmail.com <br />
    Learning Track: Data Science <br />
    Skills: Website and Mobile App Development <br />
-   Whatsapp number: 08139353673<br/>
+   Whatsapp number: 08139353673<br/><
    Twitter: @OwohChidubem <br />
    Github: @dubemtopsite <br />
------------------------------------------------
- 
-12. Name: Perpetua Amarachi<br />
-    Email:amyperpe32@gmail.com < br/>
-    Learning Track: web development<br />
-    Skills: graphics designer <br />
-    WhatsApp number: 07010890330 <br />
-    Facebook: Amarachi Perpetua  <br />  
-    Github:@ Amarachi32 <br />
+-----------------------------------------------------
+12. Name: Okafor Chukwuebuka Emmanuel <br />
+    Email: manuelokafor96@gmail.com <br />
+    Learning Track: Data Science <br />
+    Skills: - <br />
+    WhatsApp number: 08054222890 <br />
+    Facebook: Okafor Manuel <br />
+    GitHub: @nuel96 <br />
+--------------------------------------------
+13. Name: Nwankiti jacinta <br />
+    Email: nwankitijacinta@gmail.com <br />
+    Learning Track: Graphics Design <br />
+    Skills: nil <br />
+    WhatsApp number:08124803872 <br />
+    Facebook:Nwankiti jacinta <br />
+    GitHub: dekarrh <br />
+--------------------------------------------
+14. Name:Aneke Christian Chukwuebuka <br />
+    Email:anekechristian55@gmail.com <br />
+    Learning Track:Web Development <br />
+    Skills:nil <br />
+    Whatsapp number:08066383540 <br />
+    Facebook:Chukwuebuka Aneke <br />
+    GitHub:Sincere009 <br />
+--------------------------------------------
+15. Name: Nwoye Chukwujekwu Charles <br />
+    Email: charlesnwoye2@gmail.com<br />
+    Learning Track: Data Science <br />
+    Skills: Python  <br />
+    Whatsapp number: 08125493107 <br />
+    Twitter: @chuk_charles <br />
+    GitHub: @jekwulum <br />
+--------------------------------------------
+16. Name: Perpetua Amarachi <br />
+    Email: amyperpe32@gmail.com<br />
+    Learning Track: web development <br />
+    Skills: Pythongraphics designer  <br />
+    Whatsapp number: 0812549310070387307327 <br />
+    GitHub: @Amarachi <br />
+--------------------------------------------
 
-
----------------------------------------------
